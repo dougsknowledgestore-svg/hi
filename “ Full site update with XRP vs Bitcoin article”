@@ -1,9 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Doug’s Knowledge Store, established 1971</title>
-<meta name="description" content="Global market insights for pre-open, mid-day, and closing – building generational wealth with crypto and stocks in 2026.">
-<meta name="keywords" content="market pre-open 2026, mid-day update, closing insights, passive income, crypto trends">
-<style> .post { border: 1px solid #ccc; padding: 10px; margin: 10px; } </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doug’s Knowledge Store, established 1971</title>
+    <meta name="description" content="Global market insights for pre-open, mid-day, and closing – building generational wealth with crypto and stocks in 2026.">
+    <meta name="keywords" content="market pre-open 2026, mid-day update, closing insights, passive income, crypto trends">
+    <style>
+        .post { border: 1px solid #ccc; padding: 10px; margin: 10px; }
+        table { width:100%; border-collapse:collapse; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    </style>
 </head>
 <body>
 <h1>Welcome to Doug’s Knowledge Store, established 1971</h1>
@@ -29,7 +36,7 @@
 <p>Bitcoin and XRP represent two very different visions of crypto’s future. Bitcoin is often called “digital gold” — a store of value with a fixed supply. XRP is designed as a fast, low-cost bridge for global payments. As of March 17, 2026, BTC trades around $74,300 while XRP sits near $1.50. Here’s a clear comparison to help you decide which (or both) fits your long-term wealth strategy.</p>
 
 <h3>Quick Side-by-Side Comparison</h3>
-<table style="width:100%; border-collapse:collapse;">
+<table>
 <tr><th></th><th>Bitcoin (BTC)</th><th>XRP</th></tr>
 <tr><td><strong>Use Case</strong></td><td>Store of value / digital gold</td><td>Cross-border payments &amp; bridge asset</td></tr>
 <tr><td><strong>Supply</strong></td><td>21 million cap (fixed)</td><td>100 billion total (pre-mined, ~50% in escrow)</td></tr>
@@ -55,7 +62,8 @@
 <p><strong>Disclaimer:</strong> This is not financial advice. Do your own research (DYOR). Past performance is not indicative of future results. Investments involve risk, including loss of principal. Consult a professional advisor.</p>
 </div>
 
-<p>Insert AdSense code here for revenue.</p>
+<!-- Paste your AdSense code here for revenue (or leave commented until ready) -->
+
 <footer>Established 1971 – Global Wealth Builder</footer>
 </body>
 </html>
